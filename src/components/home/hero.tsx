@@ -19,11 +19,11 @@ interface ExpItemProps {
 const exps: Array<Exp> = [
   {
     label: 'Students',
-    value: '10K+',
+    value: '5k+',
   },
   {
     label: 'Quality Course',
-    value: '20+',
+    value: '15+',
   },
   {
     label: 'Experience Mentors',
@@ -83,7 +83,7 @@ const HomeHero: FC = () => {
                       backgroundColor: 'unset',
                     }}
                   >
-                    Improve{' '}
+                    Excel{' '}
                     <Box
                       sx={{
                         position: 'absolute',
@@ -97,7 +97,7 @@ const HomeHero: FC = () => {
                       <img src="/images/headline-curve.svg" alt="Headline curve" />
                     </Box>
                   </Typography>
-                  your{' '}
+                  Chess{' '}
                   <Typography
                     component="span"
                     sx={{
@@ -132,13 +132,13 @@ const HomeHero: FC = () => {
                     </svg>
                   </Typography>{' '}
                   <br />
-                  with Different Way
+                  with Us
                 </Typography>
               </Box>
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
                   {
-                    "Let's take an online course to improve your skills in a different way, you can set your own study time according to your learning speed. So you san study comfortable and absorb tge material easily."
+                    "Let's take an online course to improve your chess skills in a different way, you can set your own training time according to your learning speed. So you san learn more comfortably and absorb the teachings easily."
                   }
                 </Typography>
               </Box>
@@ -202,7 +202,7 @@ const HomeHero: FC = () => {
               </Box>
             </Box>
             <Box sx={{ lineHeight: 0 }}>
-              <Image src="/images/home-hero.jpg" width={775} height={787} alt="Hero img" />
+              <Image src="/images/home-chess.jpg" width={775} height={787} alt="Hero img" />
             </Box>
           </Grid>
         </Grid>

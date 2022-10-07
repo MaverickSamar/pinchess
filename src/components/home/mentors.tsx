@@ -91,7 +91,7 @@ const HomeOurMentors: FC = () => {
         backgroundColor: '#ecf3f3',
       }}
     >
-      <Container maxWidth="lg">
+      <Container maxWidth="xl">
         <Typography variant="h1" sx={{ fontSize: 40 }}>
           Our Expert Mentors
         </Typography>

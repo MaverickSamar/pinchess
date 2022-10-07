@@ -6,9 +6,9 @@ const AuthNavigation: FC = () => {
   return (
     <Box sx={{ '& button:first-child': { mr: 2 } }}>
       <StyledButton disableHoverEffect={true} variant="outlined">
-        Sign In
+        Purchase
       </StyledButton>
-      <StyledButton disableHoverEffect={true}>Sign Up</StyledButton>
+      <StyledButton disableHoverEffect={true}>Free Trial</StyledButton>
     </Box>
   )
 }

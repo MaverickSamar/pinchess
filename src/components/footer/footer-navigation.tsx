@@ -8,19 +8,19 @@ import { FooterSectionTitle } from '@/components/footer'
 
 const courseMenu: Array<Navigation> = [
   {
-    label: 'UI/UX Design',
+    label: 'Wood Plan',
     path: '#',
   },
   {
-    label: 'Mobile Development',
+    label: 'Ivory Plan',
     path: '#',
   },
   {
-    label: 'Machine Learning',
+    label: 'Mastering Techniques L1',
     path: '#',
   },
   {
-    label: 'Web Development',
+    label: 'Mastering Techniques L2',
     path: '#',
   },
 ]
