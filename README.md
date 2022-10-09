@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/hiriski/coursespace-landing-page">
-  Coursespace - React Online Course Landing Page
+  Pinchess - React Online Course Landing Page
   </a>
   <br />
 </h1>
