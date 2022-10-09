@@ -5,7 +5,7 @@
   <br />
 </h1>
 
-![screenshot](public/images/image_processing20220419-31825-1yzr3x9.png)
+![screenshot]()
 
 **Pinchess** is a chess learning platform build in **React**.
 An online course product.
